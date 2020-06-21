@@ -41,7 +41,7 @@ To run this project, install [No_Mess_Recipe_Backend](https://github.com/LisaHJu
 
 ```ruby
 rails db:migrate
-rails s
+rails s -p 4000
 ```
 
 Then, install [No_Mess_Recipe_Frontend](https://github.com/LisaHJung/No_Mess_Recipe_Frontend) locally by cloning the GitHub repository and typing:
